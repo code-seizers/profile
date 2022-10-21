@@ -1,2 +1,2 @@
-# profile
-Our Description
+# Profile
+Get to know us
